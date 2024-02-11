@@ -16,7 +16,7 @@ https://glistening-sundae-563741.netlify.app/
 
 ## Tech Stack
 
-**Tech:** HTML 5 , CSS , JavaScript
+**Tech:** HTML5 , CSS , JavaScript
 
 
 
